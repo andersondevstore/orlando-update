@@ -1,6 +1,6 @@
 {
-  "titulo": "Sistema de Suporte.",
-  "mensagem": "Sistema de Suporte avançado com varias novidades",
-  "data": "25/09/2026",
-  "versao": "1.0.0"
+  "titulo": "ChangeLog #21 - Sistema de Suporte",
+  "mensagem": "Sistema de suporte in game.\nPraticidade levada ao extremo!\n\nCaracterísticas:\n- Abrir/Fechar ticket;\n- Organização de informações;\n- Distinção de motivo do suporte;\n- Status do ticket;\n\nStaff: Atendimento invisível/presencial e repasse de tickets.",
+  "data": "26/09/2026",
+  "versao": "2.1.0"
 }
